@@ -1,1 +1,1 @@
-# Atividade-laborat-rio-de-programa-o
+# Atividade laboratório de programação
