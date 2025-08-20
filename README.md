@@ -1,1 +1,0 @@
-# Atividade laboratório de programação
