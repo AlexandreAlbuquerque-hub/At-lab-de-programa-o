@@ -28,7 +28,7 @@ class Moto:
         return [moto.exibir_info() for moto in cls.motos_criadas]
 
 
-moto1 = Moto("Honda CG 125", "Vermelha", 2024)
+moto1 = Moto("Honda CL 250", "Vermelha", 2024)
 moto2 = Moto("Yamaha Fazer 250", "Preta", 2021)
 
 
@@ -36,7 +36,7 @@ print("Motos criadas:")
 print(Moto.listar_motos())
 
 
-moto1.editar(cor="Azul")
+moto1.editar(cor="Branca")
 print("\nDepois de editar a cor da moto1:")
 print(Moto.listar_motos())
 
