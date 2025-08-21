@@ -43,4 +43,4 @@ print(Moto.listar_motos())
 
 moto2.excluir()
 print("\nDepois de excluir a moto2:")
-print(Moto.listar_motos()))
+print(Moto.listar_motos())
