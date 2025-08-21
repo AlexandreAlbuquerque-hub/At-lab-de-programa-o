@@ -28,7 +28,7 @@ class Moto:
         return [moto.exibir_info() for moto in cls.motos_criadas]
 
 
-moto1 = Moto("Honda CG 160", "Vermelha", 2022)
+moto1 = Moto("Honda CG 125", "Vermelha", 2024)
 moto2 = Moto("Yamaha Fazer 250", "Preta", 2021)
 
 
